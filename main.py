@@ -1,5 +1,8 @@
 # BUTTON: rfzkk.itch.io/interface-buttons-pixel-art
 # CHARACTER: 9e0.itch.io/chick-boy
+# MUSIC IN GAME: freesound.org/s/768967/
+# MUSIC IN MENU: freesound.org/s/465396/
+
 import pygame
 from pygame.locals import *
 
