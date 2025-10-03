@@ -6,6 +6,12 @@ _**en** | [ru](README.ru.md)_
 
 ---
 
+## 🖼 Sceenshots
+![image1](https://github.com/user-attachments/assets/b6fdb170-0913-4397-9b25-99c4666432f3)
+![image2](https://github.com/user-attachments/assets/264bcf5c-fced-42b1-9b3a-b46763de3ef9)
+
+---
+
 ## 🎮 Features
 
 * Fully animated character with movement and jumping.
